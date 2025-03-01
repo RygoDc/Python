@@ -1,0 +1,17 @@
+{
+    "idReceta": 1,
+    "nombreReceta": "Lasa\u00f1a",
+    "tiempoPreparacion": 120,
+    "ingredientes": [
+        {
+            "idIngrediente": 231,
+            "nombreIngrediente": "Espinacas"
+        },
+        {
+            "idIngrediente": 14,
+            "nombreIngrediente": "Harina"
+        }
+    ],
+    "dificultad": "Media",
+    "difilcutad": "Media"
+}
