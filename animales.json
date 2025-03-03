@@ -1,0 +1,28 @@
+{
+    "animales": [
+        {
+            "nombre": "toby",
+            "edad": 5,
+            "fecha_llegada": "12/10/2021",
+            "especie": "perro"
+        },
+        {
+            "nombre": "luna",
+            "edad": 3,
+            "fecha_llegada": "22/11/2021",
+            "especie": "gato"
+        },
+        {
+            "nombre": "fido",
+            "edad": 10,
+            "fecha_llegada": "12/10/2020",
+            "especie": "perro"
+        },
+        {
+            "nombre": "pipo",
+            "edad": 2,
+            "fecha_llegada": "15/12/2021",
+            "especie": "ave"
+        }
+    ]
+}
